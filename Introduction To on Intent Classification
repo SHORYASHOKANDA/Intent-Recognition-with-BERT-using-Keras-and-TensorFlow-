@@ -1,3 +1,4 @@
+<image>"https://content.altexsoft.com/media/2022/05/how-intent-classification-works.png"</image >
 Intent classification is a natural language processing (NLP) task that involves identifying the intention or purpose behind a given text input, such as a sentence or a phrase. The goal is to classify the input into one of several pre-defined categories, each of which represents a specific intent.
 
 Intent classification is a key component of many NLP applications, including chatbots, virtual assistants, and customer service systems. By accurately identifying the intent of the user's input, these systems can provide appropriate responses and actions.
